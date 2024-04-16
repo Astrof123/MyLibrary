@@ -1,9 +1,0 @@
-setup.py
-CircleShift/__init__.py
-CircleShift/main.py
-CircleShift.egg-info/PKG-INFO
-CircleShift.egg-info/SOURCES.txt
-CircleShift.egg-info/dependency_links.txt
-CircleShift.egg-info/requires.txt
-CircleShift.egg-info/top_level.txt
-tests/test_circleShift.py

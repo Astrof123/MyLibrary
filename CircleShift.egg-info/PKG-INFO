@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: CircleShift
+Version: 1.0
+Summary: My first library
+Home-page: https://github.com/Astrof123/MyLibrary
+Author: Gleb Valeev
+Author-email: valeev_101@bk.ru
+License: MIT
+Requires-Python: >=3
+Provides-Extra: test
+Requires-Dist: pytest; extra == "test"
+Requires-Dist: coverage; extra == "test"

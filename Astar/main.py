@@ -12,6 +12,8 @@ highs = []
 for i in range(n):
     highs.append(list(map(int, input().split())))
 
+print()
+
 visited = [[0 for j in range(m)] for i in range(n)]
 data = [[0 for j in range(m)] for i in range(n)]
 places = [[0 for j in range(m)] for i in range(n)]
